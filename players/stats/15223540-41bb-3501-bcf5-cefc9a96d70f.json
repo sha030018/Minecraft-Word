@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:warden": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:mace": 1,
+      "minecraft:sculk_catalyst": 1,
+      "minecraft:tnt": 24
+    },
+    "minecraft:dropped": {
+      "minecraft:mace": 1,
+      "minecraft:tnt": 23
+    },
+    "minecraft:used": {
+      "minecraft:oak_fence": 1,
+      "minecraft:grass_block": 21,
+      "minecraft:sculk_catalyst": 1,
+      "minecraft:water_bucket": 5,
+      "minecraft:warden_spawn_egg": 14,
+      "minecraft:lever": 2,
+      "minecraft:wind_charge": 32,
+      "minecraft:redstone": 18,
+      "minecraft:anvil": 2,
+      "minecraft:dispenser": 29,
+      "minecraft:mace": 48
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 21811,
+      "minecraft:walk_one_cm": 19746,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 22,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_dealt": 12244,
+      "minecraft:play_time": 21811,
+      "minecraft:jump": 149,
+      "minecraft:time_since_death": 21811,
+      "minecraft:drop": 13,
+      "minecraft:sprint_one_cm": 9852,
+      "minecraft:inspect_dispenser": 18,
+      "minecraft:total_world_time": 21811,
+      "minecraft:fly_one_cm": 20790,
+      "minecraft:interact_with_anvil": 2,
+      "minecraft:walk_on_water_one_cm": 2524,
+      "minecraft:crouch_one_cm": 3349,
+      "minecraft:sneak_time": 3160
+    }
+  },
+  "DataVersion": 4903
+}

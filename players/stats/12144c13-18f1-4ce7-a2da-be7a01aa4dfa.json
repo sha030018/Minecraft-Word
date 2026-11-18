@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:redstone_lamp": 82,
+      "minecraft:smooth_stone": 102,
+      "minecraft:repeater": 41,
+      "minecraft:redstone_torch": 80,
+      "minecraft:redstone": 40,
+      "minecraft:dispenser": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 27038,
+      "minecraft:walk_one_cm": 60158,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 27038,
+      "minecraft:jump": 259,
+      "minecraft:time_since_death": 27038,
+      "minecraft:sprint_one_cm": 13357,
+      "minecraft:inspect_dispenser": 1,
+      "minecraft:total_world_time": 27270,
+      "minecraft:fly_one_cm": 85265,
+      "minecraft:walk_on_water_one_cm": 978,
+      "minecraft:crouch_one_cm": 2777,
+      "minecraft:sneak_time": 710
+    }
+  },
+  "DataVersion": 4903
+}
